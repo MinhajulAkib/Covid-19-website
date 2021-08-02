@@ -1,6 +1,7 @@
 $(document).ready(function(){
-        $("button").click(function(){
-             $(".demo1").fadeIn();
+        $("#menu").click(function(){
+             $(this).toggleClass('fa-times');
+             $('.navbar').toggleClass('nav-toggle');
         })
         $("button").click(function(){
             $(".demo2").fadeIn(900);
