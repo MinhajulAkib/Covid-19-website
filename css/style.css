@@ -211,7 +211,42 @@ header .navbar ul li :hover {
   -ms-transform: translateY(-1rem);
   -o-transform: translateY(-1rem);
 }
-
+/* symptoms section */
+.symptoms{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.symptoms .content{
+  flex: 1 1 40rem;
+}
+.symptoms .image{
+  flex: 1 1 40rem;
+}
+.symptoms .image img{
+  width: 100%;
+}
+.symptoms .content p{
+  font-size: 1.5rem;
+  color: #999;
+  padding: 1rem 0;
+}
+.symptoms .content ul{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem 0;
+}
+.symptoms .content ul .two{
+  padding-left: 4.5rem;
+}
+.symptoms .content ul li{
+  margin-left: 1.5rem;
+  font-size: 2rem;
+  color: #666;
+  padding: 1rem;
+  font-weight: bold;
+}
 
 
 
