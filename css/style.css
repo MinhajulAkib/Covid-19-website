@@ -22,6 +22,18 @@
   background: var(--red);
   color: #fff;
 }
+.heading{
+    font-size: 3rem;
+    color: #666;
+}
+.heading span{
+  font-size: 3rem;
+  color:var(--red);
+}
+.heading{
+  font-size: 3rem;
+  color: #666;
+}
 html {
   font-size: 62.5%;
   overflow-x: hidden;
@@ -153,8 +165,52 @@ header .navbar ul li :hover {
     font-size:2rem;
     padding: 1rem 0;
 }
-
-
+/* protect section */
+.protect .heading{
+  text-align: center;
+  padding: 1rem;
+}
+.protect .box-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.protect .box-container .box{
+  background: #fff;
+  border: 1rem solid rgba(0,0,0, .1);
+  padding: 2rem;
+  margin: 2rem;
+  width: 34rem;
+  border-radius: .5rem;
+  -webkit-border-radius: .5rem;
+  -moz-border-radius: .5rem;
+  -ms-border-radius: .5rem;
+  -o-border-radius: .5rem;
+  /* box-shadow: 0.5rem 1rem rgba(0,0,0, .1); */
+  text-align: center;
+}
+.protect .box-container .box img{
+  height: 17rem;
+  width: 17rem;
+}
+.protect .box-container .box h3{
+  font-size: 2.5rem;
+  color: #666;
+  padding: 1rem 0;
+}
+.protect .box-container .box p{
+  font-size: 1.4rem;
+  color: #999;
+  padding: .5rem;
+}
+.protect .box-container .box:hover{
+  transform: translateY(-1rem);
+  -webkit-transform: translateY(-1rem);
+  -moz-transform: translateY(-1rem);
+  -ms-transform: translateY(-1rem);
+  -o-transform: translateY(-1rem);
+}
 
 
 
