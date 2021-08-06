@@ -6,7 +6,7 @@ Information based template coded and designed with HTML5 and CSS.
 
 📌Main features:
 
-✔HTML5 & CSS3\ ✔Pixel Perfect Design\ ✔Responsive Design\ ✔User Friendly Code\ ✔Clean Markup\ ✔Creative Desig\  ✔Used font awesome icon\ ✔Google Font/\✔Easy to customize\ ✔Smooth animation\  ✔And Much More!
+✔HTML5 & CSS3<br> ✔Pixel Perfect Design<br>  ✔Responsive Design<br>  ✔User Friendly Code<br>  ✔Clean Markup<br> ✔Creative Desig<br>  ✔Used font awesome icon<br>  ✔Google Font<br> ✔Easy to customize<br>  ✔Smooth animation<br>   ✔And Much More!
 
 ============📌Source & Credits =============  Javascript Jquery Library Font Awesome 5 =========== Thanks ======== 
 please dont Forget to Leave your Feedback.
