@@ -8,8 +8,7 @@ Ask comes with valid HTML files, 100% responsive layout and with clean codes.
 
 📌Main features:
 
-✔HTML5 & CSS3 ✔Pixel Perfect Design ✔Responsive Design ✔User Friendly Code ✔Clean Markup ✔Creative Design ✔Cross Browser Support  ✔Used font awesome icon ✔Google Font
-✔Google Map ✔Fast Page Loading ✔Amazing Megamenu ✔Easy to customize ✔Smooth animation ✔W3C Validated Code ✔Well Documented ✔Quick View Product ✔And Much More!
+✔HTML5 & CSS3/ ✔Pixel Perfect Design/ ✔Responsive Design/ ✔User Friendly Code/ ✔Clean Markup/ ✔Creative Desig/  ✔Used font awesome icon/ ✔Google Font/ ✔Easy to customize/ ✔Smooth animation/  ✔And Much More!
 
 ============📌Source & Credits =============  Javascript Jquery Library Font Awesome 5 =========== Thanks ======== 
 please dont Forget to Leave your Feedback.
@@ -22,7 +21,7 @@ Symptoms
 -Handwash
 -Spread
 
-What I learn/What you learn---
+What I learn/What you learn---<br>
 -HTML5<br>
 -CSS3<br>
 -JQUERY<br>
@@ -32,6 +31,6 @@ What I learn/What you learn---
 ☑️N.B: I create this template for develop my skill. This Template design idea is not mine,but every single line of code done by me.
 
 Facebookhttps:https://www.facebook.com/minhajulislam.akib/
-Twitter:https://twitter.com/minhaj_akib
+Twitter:https://twitter.com/minhaj_akib/
 Linkedin:www.linkedin.com/in/minhajulislam/ 
 
