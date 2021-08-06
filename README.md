@@ -22,6 +22,7 @@ Just fill in the details such as Name, Tagline, Dev Platforms Username, Current 
 What I learn/What you learn---<br>
 -HTML5<br>
 -CSS3<br>
+-FLEXBOX<br>
 -JQUERY<br>
 -WEBSITE RESPONSIVE
 
