@@ -23,9 +23,9 @@ Symptoms
 -Spread
 
 What I learn/What you learn---
--HTML5
--CSS3
--JQUERY
+-HTML5<br>
+-CSS3<br>
+-JQUERY<br>
 -WEBSITE RESPONSIVE
 
 
